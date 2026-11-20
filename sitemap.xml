@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- TODO confirm domain: https://mondostone.com.au is a placeholder -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://mondostone.com.au/</loc></url>
+  <url><loc>https://mondostone.com.au/services.html</loc></url>
+  <url><loc>https://mondostone.com.au/work.html</loc></url>
+  <url><loc>https://mondostone.com.au/stone.html</loc></url>
+  <url><loc>https://mondostone.com.au/about.html</loc></url>
+  <url><loc>https://mondostone.com.au/contact.html</loc></url>
+</urlset>
