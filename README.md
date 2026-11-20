@@ -23,7 +23,7 @@ Static website for Mondo Stone, a stonemasonry business in Albert Park, Melbourn
 ## How to edit
 
 - **Text**: open the page's `.html` file and change the words. The header and footer are repeated in every page, so a change there (phone, email, navigation) must be made in all seven files. A find-and-replace across the folder does it.
-- **Colours and type**: the variables at the top of `css/site.css`. The design is black, white and greys only; the photos supply the colour. Fonts are Playfair Display (headings) and Inter (text) from Google Fonts, with system fallbacks if offline.
+- **Colours and type**: the variables at the top of `css/site.css`. The design is black, white and greys only; the photos supply the colour. Fonts are Inter Tight (uppercase headings), Figtree (text) and Instrument Serif italic (accents) from Google Fonts, with system fallbacks if offline.
 - **Add a photo to the gallery**: export `name.jpg` (max 1600 px long edge), `name-800.jpg` and matching `.webp` files into `images/`, then copy one `<figure class="card">` block in `work.html` and change the file names, `width`/`height`, `alt`, caption and `data-cats` (any of `kitchens bathrooms walls vanities`). Update the "Showing 24 photos" count.
 - **Captions** describe what is visible in the photo (material appearance and job type). Please correct any stone names we have guessed wrongly, and add suburbs only where you are happy to publish them.
 
